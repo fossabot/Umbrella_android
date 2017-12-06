@@ -1,4 +1,6 @@
 # Umbrella
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frorymbyrne%2FUmbrella_android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frorymbyrne%2FUmbrella_android?ref=badge_shield)
+
 
 ![](https://github.com/securityfirst/Umbrella_android/blob/master/howtouse.gif?raw=true)
 
@@ -239,3 +241,7 @@ First)
 
 Licensed under the
 GPLv3: [*http://www.gnu.org/licenses/gpl-3.0.html*](http://www.gnu.org/licenses/gpl-3.0.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frorymbyrne%2FUmbrella_android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frorymbyrne%2FUmbrella_android?ref=badge_large)
